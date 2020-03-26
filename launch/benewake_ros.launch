@@ -1,0 +1,6 @@
+<launch>
+  <node name="benewake_ros"          pkg="benewake_ros"  type="benewake_ros" output="screen">
+  <param name="serial_port"         type="string" value="/dev/benewake_ros"/>
+  <param name="serial_baudrate"     type="int"    value="115200"/>
+  </node>
+</launch>
