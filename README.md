@@ -26,7 +26,7 @@ int32 temp
 topicname
 ```
 /benewake_report_date
-```a
+```
 
 结果：
 ```
